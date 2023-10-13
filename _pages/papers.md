@@ -1,13 +1,43 @@
 ---
 layout: page
-title: Papers
+title: 
 permalink: /papers/
-image: 01.jpg
+image: 
 ---
 
-Hi, my name is Yuhe Ding, this is my personal homepage, I will improve it.
+### PREPRINTS
 
-***
+- Unleashing the power of Neural Collapse for Transferability Estimation. \
+Yuhe Ding, Bo Jiang🤵, Lijun Sheng, Aihua Zheng, Jian Liang🤵. \
+[[Paper]]()[[Code]]()
+
+### PUBLICATIONS
+
+- ProxyMix: Proxy-based Mixup Training with Label Refinery for Source-Free Domain Adaptation.\
+Yuhe Ding, Lijun Sheng, Jian Liang🤵, Aihua Zheng, Ran He.\
+Neural Networks (NN), 2023.\
+[[Paper]]()[[Code]]()
+
+- MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection.\
+Yuhe Ding, Jian Liang🤵, Bo Jiang, Aihua Zheng, Ran He.\
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023.\
+[[Paper]]()[[Code]]()
+
+- MODIFY: Model-driven Face Stylization without Style Images.\
+Yuhe Ding, Jian Liang, Jie Cao, Aihua Zheng, Ran He.\
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.\
+[[Paper]]()[[Code]]()
+
+- Where to Focus: Central Attention-based Face Forgery Detection.\
+Jinghui Sun, Yuhe Ding, Jie Cao, Junxian Duan, Aihua Zheng.\
+PRCV, 2023.\
+[[Paper]]()
+
+- Unsupervised contrastive photo-to-caricature translation based on auto-distortion.\
+Yuhe Ding, Xin Ma, Mandi Luo, Aihua Zheng, Ran He.\
+ICPR, 2020.\
+[[Paper]]()
+
 
 <!-- #### Ph.D Student at AHU
 <small>2008 - 2018</small> -->

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Miscellaneous
+title: 
 permalink: /others/
-image: 01.jpg
+image: 
 ---
-
+![RUNOOB 图标](/images/p1.jpg)
 Hi, my name is Yuhe Ding, this is my personal homepage, I will improve it.
 
 ***
